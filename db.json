@@ -2,109 +2,125 @@
     
       "employee":[{
         "id": 1,
-        "first_name": "Nikki",
-        "last_name": "Memory",
-        "email": "nmemory0@istockphoto.com",
-        "gender": "Male",
-        "age": 1
+        "first_name": "Ana",
+        "email": "adavidovitz0@usgs.gov",
+        "gender": "Female",
+        "age": 46,
+        "salary": 1160,
+        "department": "Engineering"
       }, {
         "id": 2,
-        "first_name": "Ladonna",
-        "last_name": "Portriss",
-        "email": "lportriss1@is.gd",
-        "gender": "Female",
-        "age": 2
+        "first_name": "Maurizio",
+        "email": "mlimming1@amazonaws.com",
+        "gender": "Male",
+        "age": 27,
+        "salary": 4218,
+        "department": "Support"
       }, {
         "id": 3,
-        "first_name": "Leila",
-        "last_name": "Rozsa",
-        "email": "lrozsa2@cafepress.com",
+        "first_name": "Olenka",
+        "email": "oransome2@google.de",
         "gender": "Female",
-        "age": 3
+        "age": 38,
+        "salary": 6565,
+        "department": "Training"
       }, {
         "id": 4,
-        "first_name": "Karoline",
-        "last_name": "Trussler",
-        "email": "ktrussler3@spiegel.de",
+        "first_name": "Nalani",
+        "email": "nolijve3@wikispaces.com",
         "gender": "Female",
-        "age": 4
+        "age": 30,
+        "salary": 7199,
+        "department": "Product Management"
       }, {
         "id": 5,
-        "first_name": "Lay",
-        "last_name": "Chazette",
-        "email": "lchazette4@simplemachines.org",
-        "gender": "Male",
-        "age": 5
+        "first_name": "Hailee",
+        "email": "hbrookesbie4@ning.com",
+        "gender": "Female",
+        "age": 42,
+        "salary": 6798,
+        "department": "Legal"
       }, {
         "id": 6,
-        "first_name": "Abigail",
-        "last_name": "Muddimer",
-        "email": "amuddimer5@tumblr.com",
+        "first_name": "Cherye",
+        "email": "cdufaur5@chron.com",
         "gender": "Female",
-        "age": 6
+        "age": 47,
+        "salary": 3772,
+        "department": "Legal"
       }, {
         "id": 7,
-        "first_name": "Natalie",
-        "last_name": "Caves",
-        "email": "ncaves6@hhs.gov",
+        "first_name": "Tessy",
+        "email": "tjizhaki6@go.com",
         "gender": "Female",
-        "age": 7
+        "age": 51,
+        "salary": 6823,
+        "department": "Legal"
       }, {
         "id": 8,
-        "first_name": "Batholomew",
-        "last_name": "Ragg",
-        "email": "bragg7@pinterest.com",
-        "gender": "Male",
-        "age": 8
+        "first_name": "Rhianna",
+        "email": "rbowcock7@apple.com",
+        "gender": "Female",
+        "age": 23,
+        "salary": 2555,
+        "department": "Legal"
       }, {
         "id": 9,
-        "first_name": "Mala",
-        "last_name": "Tartt",
-        "email": "mtartt8@icq.com",
+        "first_name": "Cheri",
+        "email": "cputson8@bbc.co.uk",
         "gender": "Female",
-        "age": 9
+        "age": 59,
+        "salary": 6573,
+        "department": "Legal"
       }, {
         "id": 10,
-        "first_name": "Iona",
-        "last_name": "Stearndale",
-        "email": "istearndale9@lulu.com",
-        "gender": "Female",
-        "age": 10
+        "first_name": "Gregorius",
+        "email": "gsidwell9@wired.com",
+        "gender": "Male",
+        "age": 47,
+        "salary": 8485,
+        "department": "Training"
       }, {
         "id": 11,
-        "first_name": "Monte",
-        "last_name": "Jahnisch",
-        "email": "mjahnischa@cdc.gov",
-        "gender": "Male",
-        "age": 11
+        "first_name": "Moss",
+        "email": "meagana@umn.edu",
+        "gender": "Polygender",
+        "age": 35,
+        "salary": 2766,
+        "department": "Accounting"
       }, {
         "id": 12,
-        "first_name": "Cobby",
-        "last_name": "Okenden",
-        "email": "cokendenb@usgs.gov",
-        "gender": "Male",
-        "age": 12
+        "first_name": "Leonora",
+        "email": "lfrangob@bbc.co.uk",
+        "gender": "Female",
+        "age": 29,
+        "salary": 9531,
+        "department": "Product Management"
       }, {
         "id": 13,
-        "first_name": "Mandel",
-        "last_name": "Wickins",
-        "email": "mwickinsc@diigo.com",
-        "gender": "Male",
-        "age": 13
+        "first_name": "Gabbie",
+        "email": "gdacostac@comsenz.com",
+        "gender": "Female",
+        "age": 60,
+        "salary": 9244,
+        "department": "Engineering"
       }, {
         "id": 14,
-        "first_name": "Nevins",
-        "last_name": "Wheildon",
-        "email": "nwheildond@microsoft.com",
+        "first_name": "Theo",
+        "email": "tbartoszewiczd@list-manage.com",
         "gender": "Male",
-        "age": 14
+        "age": 40,
+        "salary": 1671,
+        "department": "Training"
       }, {
         "id": 15,
-        "first_name": "Randal",
-        "last_name": "Jelkes",
-        "email": "rjelkese@sciencedaily.com",
-        "gender": "Male",
-        "age": 15
+        "first_name": "Carlen",
+        "email": "calennikove@edublogs.org",
+        "gender": "Non-binary",
+        "age": 48,
+        "salary": 5223,
+        "department": "Support"
       }]
+     
       
   }
