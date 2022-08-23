@@ -7,7 +7,7 @@
         "gender": "Female",
         "age": 46,
         "salary": 1160,
-        "department": "Engineering"
+        "": "Engineering"
       }, {
         "id": 2,
         "first_name": "Maurizio",
@@ -121,6 +121,8 @@
         "salary": 5223,
         "department": "Support"
       }]
+      , 
+      "user":[]
      
       
   }
